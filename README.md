@@ -8,6 +8,6 @@ The only thing I can add to the very thorough explanations provided are some bad
 
 My goal is to provide YouTube videos for all 50 problems. 
 
-The playlist can be found here: 
+The playlist can be found here: https://youtube.com/playlist?list=PLtvVHoBlZ6udlTsxBYEcbJkQK7mp6tri3
 
 These notebooks are simply the product of making said videos. 
